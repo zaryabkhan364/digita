@@ -9,7 +9,6 @@ import Banner from 'sections/banner';
 import Services from 'sections/services';
 import Testimonials from 'sections/testimonials';
 import Industries from 'sections/Industries';
-import Feature from 'sections/feature';
 import HowWorks from 'sections/HowWorks';
 import CallToAction from 'sections/call-to-action';
 import BoostAgencies from 'sections/boost-agencies';
@@ -29,7 +28,6 @@ export default function IndexPage() {
           <HowWorks />
           <Testimonials />
           <Industries />
-          {/* <Feature /> */}
           <Contact/>
           <TechStack />
         </Layout>
