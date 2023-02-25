@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as MotionWrap } from \"./MotionWrap\";","map":{"version":3,"sources":["/Users/zaryab/Desktop/DigitaSolutions/src/wrapper/index.js"],"names":["default","MotionWrap"],"mappings":"AAAA,SAASA,OAAO,IAAIC,UAApB,QAAsC,cAAtC","sourcesContent":["export { default as MotionWrap } from \"./MotionWrap\";"]},"metadata":{},"sourceType":"module"}
